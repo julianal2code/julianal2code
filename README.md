@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Juliana
 
-- 🔭 Hoje trabalho com desenvolvimento web
+- 🔭 Trabalho com desenvolvimento web
 - 😄 Pronouns: ela/dela
 
 <div>
