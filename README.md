@@ -1,7 +1,6 @@
-### Oiii! Eu sou a Juliana
+### Oiii! =)
 
 - 🔭 Trabalho com desenvolvimento web
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href="https://www.beacons.page/julianaflores">
