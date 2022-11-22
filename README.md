@@ -1,7 +1,5 @@
 ### Oiii! =)
 
-- 🔭 Trabalho com desenvolvimento web
-
 <div>
   <a href="https://www.beacons.page/julianaflores">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=julianal2code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
